@@ -8,3 +8,5 @@ Ropa
 Zapatos
 Cargador
 Sombrero
+Pijama
+Bufanda
