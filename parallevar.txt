@@ -10,3 +10,5 @@ Cargador
 Sombrero
 Pijama
 Bufanda
+Pantalones
+Camisetas
